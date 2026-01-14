@@ -1,8 +1,10 @@
-# Hi 👋 I'm Bharat
+# 
 
-🚀 Full Stack Developer (MEAN Stack) | 4+ Years Experience  
-💻 Angular • React • Node.js • NestJS • MongoDB  
-☁️ AWS • Docker • REST APIs • Agile  
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi👋%2C+I'm+Bharat;Full+Stack+Developer+%7C+4%2B+Years+Experience;Angular+%7C+Node.js+%7C+NestJS+%7C+AWS;Building+Scalable+Web+Applications" />
+</h1>
+
 
 ---
 
@@ -21,21 +23,11 @@ I work across frontend and backend, focusing on clean architecture, maintainable
 
 ## 🛠 Tech Stack
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,react,nextjs,nodejs,nestjs,express,mongodb,mysql,firebase,aws,docker,git,github,gitlab,postman,vscode,tailwind,bootstrap,materialui&perline=12" />
+</p>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
@@ -66,19 +58,12 @@ I work across frontend and backend, focusing on clean architecture, maintainable
 
 ## 📊 GitHub Stats
 
-![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bt289828&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: bt289828@gmail.com  
-- 💻 HackerRank: YOUR_PROFILE_LINK  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bt289828&layout=compact&theme=radical)
 
 ---
+
 
 ⭐ If you like my work, feel free to follow or connect!
 
