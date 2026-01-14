@@ -28,6 +28,23 @@ I work across frontend and backend, focusing on clean architecture, maintainable
 </p>
 
 
+---
+
+# 📊 GitHub logs:
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
@@ -84,14 +101,6 @@ I work across frontend and backend, focusing on clean architecture, maintainable
 </tr>
 </table>
 
-
----
-
-## 📊 GitHub Stats
-
-![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bt289828&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bt289828&layout=compact&theme=radical)
 
 ---
 
