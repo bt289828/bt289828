@@ -31,28 +31,59 @@ I work across frontend and backend, focusing on clean architecture, maintainable
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
+<sub>Case studies based on real production systems (company-owned code).</sub>
 
-### 🔹 Credit Scoring Platform (US Market)
-**Tech:** Next.js, NestJS, Stripe, Tailwind CSS  
-- Implemented payment workflows with Stripe  
-- Bank & transaction management  
-- Score recheck and reporting flows  
+<table>
+<tr>
 
-### 🔹 BPMN Workflow Management System
-**Tech:** Angular 18, BPMN.js, Camunda  
-- Real-time workflow modeling and execution  
-- Enhanced enterprise process visibility  
+<td width="50%" valign="top">
 
-### 🔹 AI-Driven Construction Management Tool
-**Tech:** Angular, Node.js, MongoDB, OpenAI API  
-- Automated workflows and cost estimation  
-- AI-powered reporting and insights  
+### 💳 Credit Scoring Platform  
+<img src="https://readme-typing-svg.herokuapp.com?size=14&duration=3000&pause=1000&color=38BDF8&lines=Full+Stack+%7C+FinTech" />
 
-### 🔹 Recruitment Management Platform
-**Tech:** Angular, Node.js, MongoDB  
-- Job posting and candidate management  
-- Search and filtering with REST APIs  
+🛠 **Next.js · NestJS · Stripe · MongoDB**  
+📌 Secure credit scoring, payments, and financial workflows  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Construction Management Tool  
+<img src="https://readme-typing-svg.herokuapp.com?size=14&duration=3000&pause=1000&color=38BDF8&lines=Full+Stack+%7C+AI+Automation" />
+
+🛠 **Angular · Node.js · OpenAI · Docker**  
+📌 AI-driven cost estimation and workflow automation  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧑‍💼 Recruitment Management Platform  
+<img src="https://readme-typing-svg.herokuapp.com?size=14&duration=3000&pause=1000&color=38BDF8&lines=Frontend+%7C+Enterprise+App" />
+
+🛠 **Angular · Angular Material · Bootstrap**  
+📌 Candidate tracking and hiring workflows  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔄 BPMN Workflow System  
+<img src="https://readme-typing-svg.herokuapp.com?size=14&duration=3000&pause=1000&color=38BDF8&lines=Frontend+%7C+Enterprise+Workflow" />
+
+🛠 **Angular · BPMN.js · Camunda**  
+📌 Real-time workflow modeling and monitoring  
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
