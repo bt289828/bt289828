@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi👋%2C+I'm+Bharat;Full+Stack+Developer+%7C+4%2B+Years+Experience;Angular+%7C+Node.js+%7C+NestJS+%7C+AWS;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi👋%2C+I'm+Bharat;Full+Stack+Developer+%7C+4%2B+Years+Experience;MEAN+%7C+MERN+%7C+AWS;Building+Scalable+Web+Applications" />
 </h1>
 
 
